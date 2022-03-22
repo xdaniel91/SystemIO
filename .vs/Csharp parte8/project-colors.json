@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75ae327f-8fcb-4ac2-9b57-723133003c65": {
+      "ProjectGuid": "75ae327f-8fcb-4ac2-9b57-723133003c65",
+      "DisplayName": "Stream",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "6c32c89a-94bd-4c8a-adba-8bd6bf09cc0f": {
+      "ProjectGuid": "6c32c89a-94bd-4c8a-adba-8bd6bf09cc0f",
+      "DisplayName": "Files and Directory",
+      "ColorIndex": 1
+    },
+    "28303f94-3b7f-4802-b978-d507a1058d51": {
+      "ProjectGuid": "28303f94-3b7f-4802-b978-d507a1058d51",
+      "DisplayName": "Directory",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

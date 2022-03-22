@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\bin\Debug\net6.0\Caminhos.exe
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\bin\Debug\net6.0\Caminhos.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\bin\Debug\net6.0\Caminhos.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\bin\Debug\net6.0\Caminhos.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\bin\Debug\net6.0\ref\Caminhos.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\bin\Debug\net6.0\Caminhos.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\Caminhos.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\Caminhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\Caminhos.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\Caminhos.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\Caminhos.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\Caminhos.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\ref\Caminhos.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\Caminhos.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\Caminhos\obj\Debug\net6.0\Caminhos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\bin\Debug\net6.0\ArquivosCompactados.exe
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\bin\Debug\net6.0\ArquivosCompactados.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\bin\Debug\net6.0\ArquivosCompactados.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\bin\Debug\net6.0\ArquivosCompactados.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\bin\Debug\net6.0\ref\ArquivosCompactados.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\bin\Debug\net6.0\ArquivosCompactados.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ArquivosCompactados.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ArquivosCompactados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ArquivosCompactados.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ArquivosCompactados.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ArquivosCompactados.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ArquivosCompactados.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ref\ArquivosCompactados.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ArquivosCompactados.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\ArquivosCompactados\obj\Debug\net6.0\ArquivosCompactados.genruntimeconfig.cache
