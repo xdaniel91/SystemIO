@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stream", "Csharp parte8\Str
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files and Directory", "ArquivosCompactados\Files and Directory.csproj", "{6C32C89A-94BD-4C8A-ADBA-8BD6BF09CC0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory", "Caminhos\Directory.csproj", "{28303F94-3B7F-4802-B978-D507A1058D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directory", "Caminhos\Directory.csproj", "{28303F94-3B7F-4802-B978-D507A1058D51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "web", "web\web.csproj", "{D8D42968-056C-49B6-ACFB-AA6E7F371249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequest cep", "HttpRequest cep\HttpRequest cep.csproj", "{6DF35CBC-3B0E-4A3B-9243-7296C82A89E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{28303F94-3B7F-4802-B978-D507A1058D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28303F94-3B7F-4802-B978-D507A1058D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28303F94-3B7F-4802-B978-D507A1058D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D42968-056C-49B6-ACFB-AA6E7F371249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D42968-056C-49B6-ACFB-AA6E7F371249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D42968-056C-49B6-ACFB-AA6E7F371249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D42968-056C-49B6-ACFB-AA6E7F371249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF35CBC-3B0E-4A3B-9243-7296C82A89E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF35CBC-3B0E-4A3B-9243-7296C82A89E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF35CBC-3B0E-4A3B-9243-7296C82A89E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF35CBC-3B0E-4A3B-9243-7296C82A89E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

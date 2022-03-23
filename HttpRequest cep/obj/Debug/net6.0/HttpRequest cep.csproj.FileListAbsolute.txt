@@ -1,0 +1,17 @@
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\bin\Debug\net6.0\HttpRequest cep.exe
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\bin\Debug\net6.0\HttpRequest cep.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\bin\Debug\net6.0\HttpRequest cep.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\bin\Debug\net6.0\HttpRequest cep.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\bin\Debug\net6.0\ref\HttpRequest cep.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\bin\Debug\net6.0\HttpRequest cep.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.csproj.CopyComplete
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\ref\HttpRequest cep.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\HttpRequest cep\obj\Debug\net6.0\HttpRequest cep.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\bin\Debug\net6.0\web.exe
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\bin\Debug\net6.0\web.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\bin\Debug\net6.0\web.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\bin\Debug\net6.0\web.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\bin\Debug\net6.0\ref\web.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\bin\Debug\net6.0\web.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\web.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\web.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\web.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\web.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\ref\web.dll
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\web.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\web.genruntimeconfig.cache
+C:\Users\DanielRodriguesCarva\source\repos\Csharp parte8\web\obj\Debug\net6.0\web.csproj.AssemblyReference.cache

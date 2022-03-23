@@ -20,7 +20,12 @@
       "ProjectGuid": "28303f94-3b7f-4802-b978-d507a1058d51",
       "DisplayName": "Directory",
       "ColorIndex": 2
+    },
+    "d8d42968-056c-49b6-acfb-aa6e7f371249": {
+      "ProjectGuid": "d8d42968-056c-49b6-acfb-aa6e7f371249",
+      "DisplayName": "web",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
